@@ -199,7 +199,7 @@ Ayarlar, sol taraftaki listeden seçilen 7 bölüme ayrılmıştır:
 #### Genel
 - **Salt Okunur Mod** — Tüm yedekleme ve geri yükleme işlemlerini devre dışı bırakır (yalnızca denetim erişimi için kullanışlı).
 - **Tema** — Koyu ve Açık mod arasında anında geçiş yapın.
-- **Dil** — Arayüz dilini Türkçe, İngilizce ve Almanca arasında değiştirin.
+- **Dil** — Arayüz dilini Türkçe, İngilizce, Almanca, Rusça, Japonca, Çinçe, Korece, İspanyolca, Fransızca, Arapça ve İsveçce arasında değiştirin.
 
 #### Bulut (Google Drive)
 - Google Drive yüklemelerini etkinleştirin.
